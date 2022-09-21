@@ -1,0 +1,35 @@
+
+/* 1 - Universal Selector */
+*{
+    padding: 0;
+    margin: 0;
+}
+/* 2 - Element Selector */
+span {
+    background-color: yellow;
+}
+
+strong {
+    color: rebeccapurple;
+}
+
+em {
+    color: rebeccapurple;
+}
+   
+
+/*  3 -Class Selector */
+    .h3{
+        background-color: aqua;
+    }
+/* 4 id selector */
+
+#id{
+color: brown;
+}
+
+/* 5- Psedo Selector */
+
+.hover-me:hover{
+    background-color: blue;
+}
